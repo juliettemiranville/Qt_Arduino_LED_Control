@@ -38,7 +38,7 @@ Suivez les étapes ci-dessous pour mettre en place et utiliser le contrôleur de
     ```bash
     git clone https://github.com/juliettemiranville/Qt_Arduino_LED_Control.git
     ```
-2.  **Ouvrez le fichier projet `USB_led.pro`** (situé dans le dossier `USB_led/`) dans **Qt Creator**.
+2.   **Ouvrez le dossier du projet Qt (`USB_led/`) dans Qt Creator.** Qt Creator détectera automatiquement le fichier `CMakeLists.txt` et configurera le projet.
 3.  Dans le fichier `usbled.h`, **mettez à jour la constante `ARDUINO_PORT_NAME`** avec le nom du port série de votre Arduino.
     * Exemples : `"COM3"` (Windows), `"/dev/ttyACM0"` (Linux), `"/dev/tty.usbmodemXXXX"` (macOS).
     ```cpp
