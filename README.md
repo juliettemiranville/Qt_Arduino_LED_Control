@@ -2,7 +2,7 @@
 
 ## Description du Projet
 
-Ce projet propose une **Interface** développée avec **Qt**, permettant de contrôler une LED RGB connectée à une Arduino nano. L'application de bureau offre des sliders pour ajuster les composantes Rouge, Verte et Bleue (RVB) de la couleur, ainsi qu'un aperçu visuel de la couleur sélectionnée. Un simple clic sur un bouton envoie la couleur choisie à l'Arduino via une liaison série.
+Ce projet propose une **Interface** développée avec **Qt**, permettant de contrôler une LED RGB connectée à une Arduino nano. L'application utilise des sliders pour ajuster les composantes Rouge, Verte et Bleue (RVB) de la couleur, ainsi qu'un aperçu visuel de la couleur sélectionnée. Un simple clic sur un bouton envoie la couleur choisie à l'Arduino via une liaison série.
 
 ## Prérequis
 
