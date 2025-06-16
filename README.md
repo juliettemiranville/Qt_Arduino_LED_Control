@@ -16,7 +16,7 @@ Avant d'utiliser ce projet, assurez-vous d'avoir les éléments suivants :
 
 2.  **Logiciels :**
     * **Arduino IDE :** Pour téléverser le code sur votre Arduino.
-    * **Qt Creator (avec un kit de développement C++) :** Pour compiler et exécuter l'application IHM.
+    * **Qt Creator :** Pour compiler et exécuter l'application.
     * **Git :** Pour cloner ce dépôt.
 
 ## Installation et Utilisation
